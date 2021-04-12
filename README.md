@@ -1,5 +1,5 @@
 # Game of Life
-My implementation of John Conway's Game of Life.
+My implementation of John Conway's Game of Life using SDL.
 
 You can select and deselect tiles with mouse click and progress to the next generation by pressing 'c'.
 
